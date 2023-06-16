@@ -17,7 +17,7 @@ Project was created with following software:
 
 Example Run - Java:
 
-1. Open entire project in Microsoft VS Code
+1. Open entire project in Eclipse IDE
 1. Open a script <code>closure.py</code>.
 1. Set breakpoint
 1. Press F5 to start debugging
