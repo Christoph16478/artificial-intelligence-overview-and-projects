@@ -18,9 +18,8 @@ Project was created with following software:
 Example Run - Java:
 
 1. Open entire project in Eclipse IDE
-1. Open a script <code>closure.py</code>.
-1. Set breakpoint
-1. Press F5 to start debugging
+1. Right click in the project folder and click on <code>Open folder with ...</code>
+1. Set breakpoint and start debugging
 
 Example Run - Python
 
